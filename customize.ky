@@ -1,0 +1,4 @@
+<Label>
+    canvas:
+    Color:
+        rgb: root.rgb
